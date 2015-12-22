@@ -11,6 +11,10 @@ I started this site to not only consolidate my understanding of backbone.js, but
 
 Thomas Davis - [@neutralthoughts](http://twitter.com/neutralthoughts) - Twitter
 
+## BackboneJS Courses
+
+Backbone.js enforces that communication to the server should be done entirely through a RESTful API.  Backbone.JS Course. This is because the browser is no longer the only client, we now have mobile devices, tablet devices, Google Goggles and electronic fridges etc. If you read through some of the beginner tutorials the benefits will soon become self evident and due to Backbone.js light nature you can incrementally include it in any current or future projects.
+
 ## Contributions
 
 * Thanks to Cactus([https://github.com/cactus](https://github.com/cactus)) for creating the blog feed
